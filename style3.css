@@ -1,0 +1,65 @@
+html {
+    background-image:url(imagem/office-865091.jpg) ;
+    background-repeat: no-repeat;
+background-size: cover;
+
+    }
+
+    
+h1{
+    font-size: 28px;
+     position: absolute;
+top: 240px;
+left: 35px;
+
+
+    }
+    h1{
+    text-shadow:2px 2px 2px rgb(95, 93, 93) ;
+
+    }
+
+
+
+
+p{
+     border: solid 1px ;
+     border-radius: 15px;
+      width: 450px;
+      height: 50px;
+position: absolute;
+top: 280px ;
+left:30px ;
+
+    }
+  p  {
+    font-size: 20px;
+      word-wrap: break-word;
+font-style: italic;
+padding: 10px;
+color: rgb(132, 134, 134);
+
+    }
+
+
+    .lk {
+    border: solid 1px  black;
+border-radius: 100%;
+border-radius: circle;
+position: absolute;
+top:460px ;
+left: 210px;
+ 
+    }
+    
+.a{
+    
+      border: none;
+      font-size: 30px;
+font-style: italic;
+position: absolute;
+top:380px; 
+left: 200px;
+text-shadow: 1px,1px,2px,rgb(132, 134, 134);
+
+}

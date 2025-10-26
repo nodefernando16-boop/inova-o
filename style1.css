@@ -1,0 +1,148 @@
+html{
+      background-image:url(imagem/box-1514845.jpg);
+      background-size: cover;
+background-repeat: no-repeat;
+
+
+    }
+
+    
+
+    body ::content {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 5px;
+display: flex;
+flex-wrap: wrap;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    header nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+      color: black;
+    }
+    
+
+    svg{
+
+      width: 40px;
+      height: 40px;
+      position: absolute;
+      top: 40px;
+      left: 67px;
+      color: dimgray;
+
+    }
+
+    #kaki { 
+      position: absolute;
+      top: 60px;
+      left: 50px;
+      color: dimgray;
+    }
+
+    .e{
+      font-size: 20px;
+      color: rgb(132, 134, 134);
+    }
+
+.f{
+font-size: 35px;
+position: absolute;
+top:25px ;
+word-break: keep-all;
+color: rgb(132, 134, 134);
+}
+
+.h{
+position: absolute;
+top: 80px;
+color: rgb(132, 134, 134);
+}
+
+.i{position: absolute;
+top: 100px;
+left: 130px;
+animation: none;
+color: blue;
+}
+
+.x{
+border:solid 2px transparent;
+border-radius:15px ;
+width:350px ;
+height: 400px;
+position: absolute;
+top: 150px;
+left: 35%;
+background-color:transparent;
+backdrop-filter: blur(10px);
+
+}
+
+
+.a{
+  color:white;
+border:solid 2px rgb(35,35,35) ;
+width:155px ;
+height:45px ;
+border-radius: 5px;
+background-color:transparent;
+
+}
+
+.a{
+
+cursor: pointer;
+}
+
+.a:hover{
+  transform: scale(1.1);
+filter: grayscale(0%);
+
+}
+
+.c{
+width: 340px; 
+
+}
+
+    #g {
+      position: absolute;
+      top: 320px;
+      left: 120px;
+      
+    }
+
+    #g button {
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: bold;
+      border: solid 1px rgb(92, 0, 128);
+      border-radius: 5px;
+      background: #222;
+      color: white;
+      cursor: pointer;
+    }
+
+
+
+#g{
+
+cursor: pointer;
+}
+
+#g:hover{
+  transform: scale(1.1);
+filter: grayscale(0%);
+
+}
+
+
+.l{position: absolute;top:140px ;}
+.m{position: absolute;top:210px ;}
